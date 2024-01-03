@@ -1,5 +1,5 @@
 # Function: bicubic
-# Author: YuYao
+# Author: YuYue
 # Time: 10/09/2019
 
 import numpy as np
